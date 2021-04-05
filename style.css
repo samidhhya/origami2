@@ -1,0 +1,19 @@
+h1 {
+  
+
+    color: rgb(236, 32, 32);
+}
+h2{
+    alignment = "center";
+}
+
+.header{
+    background-color:yellow ;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
